@@ -15,7 +15,6 @@ dest_files=["res://.godot/imported/Crumbled-Pixels.ttf-e1f394ade3b7a2ea09ef02d8f
 Rendering=null
 antialiasing=1
 generate_mipmaps=false
-disable_embedded_bitmaps=true
 multichannel_signed_distance_field=false
 msdf_pixel_range=8
 msdf_size=48
